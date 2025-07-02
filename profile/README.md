@@ -4,6 +4,9 @@
  PharmaForest is a collection of SAS packages for efficiency, collaboration, and fun in SAS programming tasks. List of packages is shown below.  
 ## Packages
  - [OncoPlotter](https://github.com/PharmaForest/OncoPlotter)
+ - [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json)
+ - [sashash](https://github.com/PharmaForest/sashash)
+ - [SASPACer](https://github.com/PharmaForest/SASPACer)
  - [misc](https://github.com/PharmaForest/misc)
 
 ## What is SAS Packages?
