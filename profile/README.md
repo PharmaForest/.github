@@ -8,8 +8,9 @@
  - [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json)  
  - [SASPACer](https://github.com/PharmaForest/SASPACer)
  - [misc](https://github.com/PharmaForest/misc)  
-<img src="../pharmaforest_map.png" alt="pharmaforest_map" width="300"> 
-## What is SAS Packages?
+<img src="../pharmaforest_map.png" alt="pharmaforest_map" width="300">   
+
+## What is SAS Packages?  
 PharmaForest is a repository of SAS packages. These packages are built on top of **SAS Packages framework(SPF)**, which was developed by Bartosz Jablonski.  
 For more information about SAS Packages framework, see [SAS_PACKAGES](https://github.com/yabwon/SAS_PACKAGES).  
 You can also find more SAS Packages(SASPACs) in [SASPAC](https://github.com/SASPAC).
