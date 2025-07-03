@@ -7,7 +7,9 @@
  - [sashash](https://github.com/PharmaForest/sashash)
  - [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json)  
  - [SASPACer](https://github.com/PharmaForest/SASPACer)
- - [misc](https://github.com/PharmaForest/misc)  
+ - [misc](https://github.com/PharmaForest/misc)
+ - [SAS FAKER](https://github.com/PharmaForest/sas_faker)  
+
 <img src="../pharmaforest_map.png" alt="pharmaforest_map" width="300">   
 
 ## What is SAS Packages?  
