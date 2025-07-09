@@ -17,7 +17,7 @@ PharmaForest is a repository of SAS packages. These packages are built on top of
 For more information about SAS Packages framework, see [SAS_PACKAGES](https://github.com/yabwon/SAS_PACKAGES).  
 You can also find more SAS Packages(SASPACs) in [SASPAC](https://github.com/SASPAC).
 
-# How to use SASPACer? (quick start)
+## How to use SASPACer? (quick start)
 Create directory for your packages and assign a fileref to it.
 ~~~sas      
 filename packages "\path\to\your\packages";
