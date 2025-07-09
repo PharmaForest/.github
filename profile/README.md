@@ -4,12 +4,15 @@
  PharmaForest is a collection of SAS packages for efficiency, collaboration, and fun in SAS programming tasks. List of packages is shown below.  
  This is a project powered by phuse Japan OST(Open Source Technology) WG members(Hiroki Yamanobe, Yutaka Morioka, Ryo Nakaya).
 ## Packages
- - [OncoPlotter](https://github.com/PharmaForest/OncoPlotter)
- - [sashash](https://github.com/PharmaForest/sashash)
- - [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json)  
- - [SASPACer](https://github.com/PharmaForest/SASPACer)
- - [misc](https://github.com/PharmaForest/misc)
- - [SAS FAKER](https://github.com/PharmaForest/sas_faker)  
+ 1. [OncoPlotter](https://github.com/PharmaForest/OncoPlotter) (PharmaForest original package)
+ 2. [sashash](https://github.com/PharmaForest/sashash)
+ 3. [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json)  
+ 4. [SASPACer](https://github.com/PharmaForest/SASPACer)
+ 5. [misc](https://github.com/PharmaForest/misc) (PharmaForest original package)
+ 6. [SAS FAKER](https://github.com/PharmaForest/sas_faker)  
+ 7. [SASLogChecker](https://github.com/PharmaForest/saslogchecker)  
+ 8. [sas_compare](https://github.com/PharmaForest/sas_compare)  
+ 9. [rtfCreator](https://github.com/PharmaForest/rtfcreator)  
 
 <img src="../pharmaforest_map.png" alt="pharmaforest_map" width="300">   
 
