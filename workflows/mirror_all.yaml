@@ -1,0 +1,65 @@
+name: Scheduled file sync from 9 repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 毎日0時（UTC）に実行。日本時間で9時。
+  workflow_dispatch:  # 手動実行もできるように
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout destination _ALL_
+        uses: actions/checkout@v4
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Clone and copy from repos
+        run: |
+          mkdir -p files
+
+        git clone --depth 1 https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/PharmaForest/SASPACer.git temp
+        cp temp/SASPACer.zip files/SASPACer.zip
+        rm -rf temp
+
+        git clone --depth 1 https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/PharmaForest/sashash.git temp
+        cp temp/sashash.zip files/sashash.zip
+        rm -rf temp
+
+        git clone --depth 1 https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/PharmaForest/sas_dataset_json.git temp
+        cp temp/sas_dataset_json.zip files/sas_dataset_json.zip
+        rm -rf temp
+
+        git clone --depth 1 https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/PharmaForest/OncoPlotter.git temp
+        cp temp/OncoPlotter.zip files/OncoPlotter.zip
+        rm -rf temp
+
+        git clone --depth 1 https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/PharmaForest/SAS_FAKER.git temp
+        cp temp/SAS_FAKER.zip files/SAS_FAKER.zip
+        rm -rf temp
+
+        git clone --depth 1 https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/PharmaForest/sas_compare.git temp
+        cp temp/sas_compare.zip files/sas_compare.zip
+        rm -rf temp
+
+        git clone --depth 1 https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/PharmaForest/saslogchecker.git temp
+        cp temp/saslogchecker.zip files/saslogchecker.zip
+        rm -rf temp
+
+        git clone --depth 1 https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/PharmaForest/misc.git temp
+        cp temp/misc.zip files/misc.zip
+        rm -rf temp
+
+        git clone --depth 1 https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/PharmaForest/rtfcreator.git temp
+        cp temp/rtfcreator.zip files/rtfcreator.zip
+        rm -rf temp
+        
+      - name: Commit and push
+        run: |
+          git add files/
+          git commit -m "Scheduled update from repos" || echo "Nothing to commit"
+          git push
