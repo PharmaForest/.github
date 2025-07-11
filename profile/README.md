@@ -1,6 +1,6 @@
 # PharmaForest
  A collaborative repository of SAS packages for pharmaceutical space.   
-<img src="../pharmaforest.png" alt="pharmaforest" width="300" height="300">  
+<img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png" alt="pharmaforest" width="300" height="300">  
  PharmaForest is a collection of SAS packages for efficiency, collaboration, and fun in SAS programming tasks. List of packages is shown below.  
  This is a project powered by phuse Japan OST(Open Source Technology) WG members(Hiroki Yamanobe, Yutaka Morioka, Ryo Nakaya).
 ## Packages
@@ -14,7 +14,7 @@
  8. [sas_compare](https://github.com/PharmaForest/sas_compare)  
  9. [rtfCreator](https://github.com/PharmaForest/rtfcreator)  
 
-<img src="../pharmaforest_map.png" alt="pharmaforest_map" width="300">   
+<img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png" alt="pharmaforest_map" width="300">   
 
 ## What is SAS Packages?  
 PharmaForest is a repository of SAS packages. These packages are built on top of **SAS Packages framework(SPF)**, which was developed by Bartosz Jablonski.  
