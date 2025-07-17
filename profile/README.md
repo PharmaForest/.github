@@ -13,7 +13,7 @@
  7. [SASLogChecker](https://github.com/PharmaForest/saslogchecker)  
  8. [sas_compare](https://github.com/PharmaForest/sas_compare)  
  9. [rtfCreator](https://github.com/PharmaForest/rtfcreator)
- 10. [shutter_change](https://github.com/PharmaForest/shutter_chance)  
+ 10. [shutter_chance](https://github.com/PharmaForest/shutter_chance)  
 
 <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png" alt="pharmaforest_map" width="300">   
 
