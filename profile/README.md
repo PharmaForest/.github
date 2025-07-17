@@ -1,8 +1,13 @@
 # PharmaForest
- A collaborative repository of SAS packages for pharmaceutical space.   
+A collaborative repository of SAS packages for the pharmaceutical space, powered by PHUSE Japan OST (Open Source Technology) WG members—Hiroki Yamanobe, Yutaka Morioka, and Ryo Nakaya—showcasing the list of available packages below.    
 <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png" alt="pharmaforest" width="300" height="300">  
- PharmaForest is a collection of SAS packages for efficiency, collaboration, and fun in SAS programming tasks. List of packages is shown below.  
- This is a project powered by phuse Japan OST(Open Source Technology) WG members(Hiroki Yamanobe, Yutaka Morioka, Ryo Nakaya).
+ 
+**-Goal-**  
+Through SAS Packages, we want to actively encourage sharing of SAS know‑how that has often stayed within individuals. By doing this, we aim to build up collective knowledge, boost productivity, ensure quality through standardization, and energize our community.
+
+**-Priority-**  
+Our first priority is to share openly—and get others to share as well—so that more people can join in. On that basis, we’ll work on improving quality, driving standardization, and creating long‑term value.
+
 ## Packages
  1. [OncoPlotter](https://github.com/PharmaForest/OncoPlotter) (PharmaForest original package)
  2. [sashash](https://github.com/PharmaForest/sashash)
