@@ -19,7 +19,7 @@ Our first priority is to share openly—and get others to share as well—so tha
  8. [sas_compare](https://github.com/PharmaForest/sas_compare)  
  9. [rtfCreator](https://github.com/PharmaForest/rtfcreator)
  10. [shutter_chance](https://github.com/PharmaForest/shutter_chance)
- 11. [devil](https://github.com/PharmaForest/devil)  
+ 11. [devil](https://github.com/PharmaForest/devil) (PharmaForest original package)  
 
 <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png" alt="pharmaforest_map" width="300">   
 
