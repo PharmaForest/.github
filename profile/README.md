@@ -18,7 +18,8 @@ Our first priority is to share openly—and get others to share as well—so tha
  7. [SASLogChecker](https://github.com/PharmaForest/saslogchecker)  
  8. [sas_compare](https://github.com/PharmaForest/sas_compare)  
  9. [rtfCreator](https://github.com/PharmaForest/rtfcreator)
- 10. [shutter_chance](https://github.com/PharmaForest/shutter_chance)  
+ 10. [shutter_chance](https://github.com/PharmaForest/shutter_chance)
+ 11. [devil](https://github.com/PharmaForest/devil)  
 
 <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png" alt="pharmaforest_map" width="300">   
 
