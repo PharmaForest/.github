@@ -45,6 +45,16 @@ Install SAS package you want to use using %installPackage() in SPFinit.sas.
 %installPackage(packagename, sourcePath=\github\path\for\packagename)
 ~~~
 (e.g. %installPackage(ABC, sourcePath=https://github.com/XXXXX/ABC/raw/main/))  
+
+If you are greedy who wants to install all packages, see below for install all packages of PharmaForest.
+~~~sas
+%installPackage(
+	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil,
+	sourcePath=https://github.com/PharmaForest/_ALL_/raw/main/
+)
+~~~  
+  
+
 ### 3. Load SAS package  
 Load SAS package you want to use using %loadPackage() in SPFinit.sas.
 ~~~sas      
