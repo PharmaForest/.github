@@ -38,6 +38,12 @@ If you are greedy who wants to install all packages, see below for install all p
 )
 ~~~  
 
+PharmaForest repository can omit sourcePath= parameter(sometime its lengthy) by using mirror=3 or mirror=PharmaForest in %installPackage() of SPF thanks to Bart.
+~~~sas
+%installPackage(OncoPlotter, mirror=PharmaForest)
+%installPackage(OncoPlotter, mirror=3)
+~~~
+
 ## What is SAS Packages?  
 The package is built on top of **SAS Packages framework(SPF)**, which was developed by Bartosz Jablonski.  
 For more information about SAS Packages framework, see [SAS_PACKAGES](https://github.com/yabwon/SAS_PACKAGES).  
