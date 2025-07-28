@@ -11,8 +11,8 @@ Our first priority is to share openly—and get others to share as well—so tha
 ---
 <img src="https://github.com/PharmaForest/.github/blob/main/forest_navigator_long.png" alt="Dr.Forest" height="100" align="left" style="margin-right:10px;">  
 
-**Forest Navigator(Beta version)** [Dr.Forest](https://chatgpt.com/g/g-6881d98193ec8191abb19e4e920cb64c-forest-navigator)  
-Dr. Forest is our receptionist. He is an excellent and diligent GPT assistant who can answer most questions about PharmaForest. However, please understand that he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to him.
+**Forest Navigator(Beta version)** [Dr. Forest link](https://chatgpt.com/g/g-6881d98193ec8191abb19e4e920cb64c-forest-navigator)  
+Dr. Forest is our receptionist. He is an excellent and diligent GPT assistant who can answer most questions about PharmaForest. However, please understand that he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to him. See more about [his background](https://github.com/PharmaForest/.github/DrForest_background.md).
 
 ## Packages
  1. [OncoPlotter](https://github.com/PharmaForest/OncoPlotter) (PharmaForest original package)
