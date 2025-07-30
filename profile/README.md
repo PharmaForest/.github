@@ -33,7 +33,8 @@ Dr. Forest is our receptionist. He is an excellent and diligent GPT assistant wh
 If you are greedy who wants to install all packages, see below for install all packages of PharmaForest.
 ~~~sas
 %installPackage(
-	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit,
+	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit
+	cloak vis_review_kit odstable_layoutshowcase,
 	sourcePath=https://github.com/PharmaForest/_ALL_/raw/main/
 )
 ~~~  
