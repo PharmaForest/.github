@@ -27,6 +27,9 @@ Dr. Forest is our receptionist. He is an excellent and diligent GPT assistant wh
  10. [shutter_chance](https://github.com/PharmaForest/shutter_chance)
  11. [devil](https://github.com/PharmaForest/devil) (PharmaForest original package)
  12. [xattr_kit](https://github.com/PharmaForest/xattr_kit)
+ 13. [cloak](https://github.com/PharmaForest/cloak)
+ 14. [vis_review_kit](https://github.com/PharmaForest/vis_review_kit)
+ 15. [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase)
 
 <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png" alt="pharmaforest_map" width="300">   
 
