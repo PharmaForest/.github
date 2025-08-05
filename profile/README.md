@@ -48,6 +48,8 @@ PharmaForest repository can omit sourcePath= parameter(sometime its lengthy) by 
 %installPackage(OncoPlotter, mirror=3)
 ~~~
 
+<img src="https://github.com/PharmaForest/.github/blob/main/ecosystem.png" alt="ecosystem_map" width="800">   
+
 ## What is SAS Packages?  
 The package is built on top of **SAS Packages framework(SPF)**, which was developed by Bartosz Jablonski.  
 For more information about SAS Packages framework, see [SAS_PACKAGES](https://github.com/yabwon/SAS_PACKAGES).  
