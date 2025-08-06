@@ -51,6 +51,33 @@ PharmaForest repository can omit sourcePath= parameter(sometime its lengthy) by 
 
 <img src="https://github.com/PharmaForest/.github/blob/main/ecosystem.png" alt="ecosystem_map" width="800">   
 
+
+## Join Our "PharmaForest" – Collaborators Welcome!  
+We are actively looking for collaborators to join and contribute to our program package. If you're interested in participating in any of the following ways, feel free to get in touch with us!
+ 
+1. Become an Administrator<br>
+Help manage and lead the package alongside the current team.
+
+3. Co-develop Original Packages<br>
+Collaborate with us on building new tools such as "OncoPlotter," "misc", and more.
+
+4. Mirror Your Own Packages<br>
+Share your packages by hosting mirrors with us.
+
+5. Contribute Macros and Tools to the "Devil Package"<br>
+Add useful macros or functionalities to our "Devil" package to expand its features. "Devil" is a package for casually sharing playful or simple programs.
+
+6. Join as a User<br>
+Simply participate in the package as an active user, provide feedback, and stay up to date.
+ 
+We welcome all levels of involvement. Whether you're a developer, researcher, or just someone interested in what we’re building, we’d love to hear from you!
+ 
+Contact us if you're interested!
+[Ryo Nakaya](https://www.linkedin.com/in/ryo-nakaya-a93292348/), 
+[Yutaka Morioka](https://www.linkedin.com/in/morioka%E3%80%80%E6%A3%AE%E5%B2%A1-yutaka-%E8%A3%95-5ab910185/), 
+[Hiroki Yamanobe](https://www.linkedin.com/in/hiroki-yamanobe-85a49a361/)
+
+
 ## What is SAS Packages?  
 The package is built on top of **SAS Packages framework(SPF)**, which was developed by Bartosz Jablonski.  
 For more information about SAS Packages framework, see [SAS_PACKAGES](https://github.com/yabwon/SAS_PACKAGES).  
