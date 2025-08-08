@@ -77,6 +77,9 @@ Contact us if you're interested!
 [Yutaka Morioka](https://www.linkedin.com/in/morioka%E3%80%80%E6%A3%AE%E5%B2%A1-yutaka-%E8%A3%95-5ab910185/), 
 [Hiroki Yamanobe](https://www.linkedin.com/in/hiroki-yamanobe-85a49a361/)
 
+<p align="center">
+  <img src="https://github.com/PharmaForest/.github/blob/main/wewantyou.png" alt="wewantyou" width="300">
+</p>
 
 ## What is SAS Packages?  
 The package is built on top of **SAS Packages framework(SPF)**, which was developed by Bartosz Jablonski.  
