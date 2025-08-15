@@ -1,15 +1,20 @@
-# [PharmaForest](https://pharmaforest.github.io/) (click for visitting gallery page)
-A collaborative repository of SAS packages for the pharmaceutical space, powered by PHUSE Japan OST (Open Source Technology) WG members—Hiroki Yamanobe, Yutaka Morioka, and Ryo Nakaya—showcasing the list of available packages below.      
+# PharmaForest
+A collaborative repository of SAS packages for the pharmaceutical space, powered by PHUSE Japan OST (Open Source Technology) WG members—Hiroki Yamanobe, Yutaka Morioka, and Ryo Nakaya—showcasing the list of available packages below. Click the PharmaForest logo to visit gallery page.       
+<a href="https://pharmaforest.github.io/">
 <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png" alt="pharmaforest" width="300" height="300">  
+</a>
 
 **-Goal-**  
-Through SAS Packages, we want to actively encourage sharing of SAS know‑how that has often stayed within individuals. By doing this, we aim to build up collective knowledge, boost productivity, ensure quality through standardization, and energize our community.
+Through SAS Packages, we want to actively encourage sharing of SAS know‑how that has often stayed within individuals. By doing this, we aim to build up collective knowledge, boost productivity, ensure quality through standardization, and energize our community. 
 
 **-Priority-**  
 Our first priority is to share openly—and get others to share as well—so that more people can join in. On that basis, we’ll work on improving quality, driving standardization, and creating long‑term value.  
 
 ---
-<img src="https://github.com/PharmaForest/.github/blob/main/forest_navigator_long.png" alt="Dr.Forest" height="100" align="left" style="margin-right:10px;">  
+
+<img src="https://github.com/PharmaForest/.github/blob/main/forest_navigator_long.png" 
+       alt="Dr.Forest" height="100" align="left" style="margin-right:10px;">
+
 
 **Forest Navigator(Beta version)** [Dr. Forest link](https://chatgpt.com/g/g-6881d98193ec8191abb19e4e920cb64c-forest-navigator)  
 Dr. Forest is our receptionist. He is an excellent and diligent GPT assistant who can answer most questions about PharmaForest. However, please understand that he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to him. See more about [his background](https://github.com/PharmaForest/.github/blob/main/DrForest_background.md).
