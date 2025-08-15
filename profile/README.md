@@ -30,7 +30,7 @@ Dr. Forest is our receptionist. He is an excellent and diligent GPT assistant wh
  13. [cloak](https://github.com/PharmaForest/cloak)
  14. [vis_review_kit](https://github.com/PharmaForest/vis_review_kit)
  15. [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase)
- 16. [maxims4sas](https://github.com/PharmaForest/maxims4sas)
+ 16. [maxims4sas](https://github.com/PharmaForest/maxims4sas)　(PharmaForest original package)  
 
 <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png" alt="pharmaforest_map" width="600">   
 
