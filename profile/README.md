@@ -3,8 +3,6 @@ A collaborative repository of SAS packages for pharmaceutical industry, powered 
 <a href="https://pharmaforest.github.io/">
   <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png"
        alt="pharmaforest" width="300" height="300"
-       onmouseover="this.src='https://github.com/PharmaForest/pharmaforest.github.io/logo/blob/main/picture_pharmaforest.png'"
-       onmouseout="this.src='https://github.com/PharmaForest/.github/blob/main/pharmaforest.png'">
 </a>
 
 **-Goal-**  
