@@ -1,9 +1,13 @@
 # PharmaForest
-A collaborative repository of SAS packages for pharmaceutical industry, powered by PHUSE Japan OST (Open Source Technology) WG members—Hiroki Yamanobe, Yutaka Morioka, and Ryo Nakaya—showcasing the list of available packages below. **Click the PharmaForest logo** to visit gallery page.       
-<a href="https://pharmaforest.github.io/">
+A collaborative repository of SAS packages for pharmaceutical industry, powered by PHUSE Japan OST (Open Source Technology) WG members—Hiroki Yamanobe, Yutaka Morioka, and Ryo Nakaya—showcasing the list of available packages below. **Click the QR code** to visit gallery page.       
   <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png"
        alt="pharmaforest" width="300" height="300">
+<a href="https://pharmaforest.github.io/">
+  <img src="https://github.com/PharmaForest/.github/blob/main/QR_pharmaforest.png"
+       alt="QR" width="150" height="150">
+PharmaForest Gallery  
 </a>
+
 
 **-Goal-**  
 Through SAS Packages, we want to actively encourage sharing of SAS know‑how that has often stayed within individuals. By doing this, we aim to build up collective knowledge, boost productivity, ensure quality through standardization, and energize our community. 
