@@ -42,6 +42,8 @@ Dr. Forest is our receptionist. He is an excellent and diligent GPT assistant wh
  15. [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase)
  16. [maxims4sas](https://github.com/PharmaForest/maxims4sas) (PharmaForest original package)
  17. [laglead](https://github.com/PharmaForest/laglead)  
+ 18. [ctcae5_grader](https://github.com/PharmaForest/ctcae5_grader)
+
 
 <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png" alt="pharmaforest_map" width="600">   
 
@@ -49,7 +51,7 @@ If you are greedy who wants to install all packages, see below for install all p
 ~~~sas
 %installPackage(
 	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit
-	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead,
+	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader,
 	sourcePath=https://github.com/PharmaForest/_ALL_/raw/main/
 )
 ~~~  
