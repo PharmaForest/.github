@@ -25,24 +25,24 @@ Our first priority is to share openly—and get others to share as well—so tha
 Dr. Forest is our receptionist. He is an excellent and diligent GPT assistant who can answer most questions about PharmaForest. However, please understand that he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to him. See more about [his background](https://github.com/PharmaForest/.github/blob/main/DrForest_background.md).
 
 ## Packages
- 1. [OncoPlotter](https://github.com/PharmaForest/OncoPlotter) (PharmaForest original package)
- 2. [sashash](https://github.com/PharmaForest/sashash)
- 3. [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json)  
- 4. [SASPACer](https://github.com/PharmaForest/SASPACer)
- 5. [misc](https://github.com/PharmaForest/misc) (PharmaForest original package)
- 6. [SAS FAKER](https://github.com/PharmaForest/sas_faker)  
- 7. [SASLogChecker](https://github.com/PharmaForest/saslogchecker)  
- 8. [sas_compare](https://github.com/PharmaForest/sas_compare)  
- 9. [rtfCreator](https://github.com/PharmaForest/rtfcreator)
- 10. [shutter_chance](https://github.com/PharmaForest/shutter_chance)
- 11. [devil](https://github.com/PharmaForest/devil) (PharmaForest original package)
- 12. [xattr_kit](https://github.com/PharmaForest/xattr_kit)
- 13. [cloak](https://github.com/PharmaForest/cloak)
- 14. [vis_review_kit](https://github.com/PharmaForest/vis_review_kit)
- 15. [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase)
- 16. [maxims4sas](https://github.com/PharmaForest/maxims4sas) (PharmaForest original package)
- 17. [laglead](https://github.com/PharmaForest/laglead)  
- 18. [ctcae5_grader](https://github.com/PharmaForest/ctcae5_grader)
+
+| # | Package | # | Package |
+|---|---------|---|---------|
+| 1 | [OncoPlotter](https://github.com/PharmaForest/OncoPlotter) (PharmaForest original package) | 16 | [maxims4sas](https://github.com/PharmaForest/maxims4sas) (PharmaForest original package) |
+| 2 | [sashash](https://github.com/PharmaForest/sashash) | 17 | [laglead](https://github.com/PharmaForest/laglead) |
+| 3 | [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json) | 18 | [ctcae5_grader](https://github.com/PharmaForest/ctcae5_grader) |
+| 4 | [SASPACer](https://github.com/PharmaForest/SASPACer) |   |   |
+| 5 | [misc](https://github.com/PharmaForest/misc) (PharmaForest original package) |   |   |
+| 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) |   |   |
+| 7 | [SASLogChecker](https://github.com/PharmaForest/saslogchecker) |   |   |
+| 8 | [sas_compare](https://github.com/PharmaForest/sas_compare) |   |   |
+| 9 | [rtfCreator](https://github.com/PharmaForest/rtfcreator) |   |   |
+| 10 | [shutter_chance](https://github.com/PharmaForest/shutter_chance) |   |   |
+| 11 | [devil](https://github.com/PharmaForest/devil) (PharmaForest original package) |   |   |
+| 12 | [xattr_kit](https://github.com/PharmaForest/xattr_kit) |   |   |
+| 13 | [cloak](https://github.com/PharmaForest/cloak) |   |   |
+| 14 | [vis_review_kit](https://github.com/PharmaForest/vis_review_kit) |   |   |
+| 15 | [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase) |   |   |
 
 
 <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png" alt="pharmaforest_map" width="600">   
