@@ -31,7 +31,7 @@ Dr. Forest is our receptionist. He is an excellent and diligent GPT assistant wh
 | 1 | [OncoPlotter](https://github.com/PharmaForest/OncoPlotter) (PharmaForest original package) | 16 | [maxims4sas](https://github.com/PharmaForest/maxims4sas) (PharmaForest original package) |
 | 2 | [sashash](https://github.com/PharmaForest/sashash) | 17 | [laglead](https://github.com/PharmaForest/laglead) |
 | 3 | [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json) | 18 | [ctcae5_grader](https://github.com/PharmaForest/ctcae5_grader) |
-| 4 | [SASPACer](https://github.com/PharmaForest/SASPACer) |   |   |
+| 4 | [SASPACer](https://github.com/PharmaForest/SASPACer) | 19 | [love_matrix](https://github.com/PharmaForest/love_matrix) |
 | 5 | [misc](https://github.com/PharmaForest/misc) (PharmaForest original package) |   |   |
 | 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) |   |   |
 | 7 | [SASLogChecker](https://github.com/PharmaForest/saslogchecker) |   |   |
@@ -51,7 +51,7 @@ If you are greedy who wants to install all packages, see below for install all p
 ~~~sas
 %installPackage(
 	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit
-	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader,
+	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader love_matrix,
 	sourcePath=https://github.com/PharmaForest/_ALL_/raw/main/
 )
 ~~~  
