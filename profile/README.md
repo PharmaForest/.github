@@ -26,7 +26,7 @@ Dr. Forest is a master navigator of PharmaForest. He is an excellent and diligen
 <img src="https://github.com/PharmaForest/.github/blob/main/apple.png" 
        alt="Dr.Forest" height="100" align="left" style="margin-right:10px;">
 **Support Navigator(Beta version)** [Dr. Apple link](https://chatgpt.com/g/g-68abce4602908191b56d53895bb2e9dc-dr-apple)  
-Dr. Apple is a support navigator of PharmaForest. He has a strong character but cool GPT assistant who can asnwer details of #16 and later packages. Please understand that he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to him. See more about [his background](https://github.com/PharmaForest/.github/blob/main/DrApple_background.md).
+Dr. Apple is a support navigator of PharmaForest. He has a strong character but cool GPT assistant who can asnwer details of #16 and later packages. Please understand that he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to him. See more about [his background](https://github.com/PharmaForest/.github/blob/main/Apple_background.md).
 
 ## Packages
 
