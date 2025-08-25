@@ -32,7 +32,7 @@ Dr. Forest is our receptionist. He is an excellent and diligent GPT assistant wh
 | 2 | [sashash](https://github.com/PharmaForest/sashash) | 17 | [laglead](https://github.com/PharmaForest/laglead) |
 | 3 | [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json) | 18 | [ctcae5_grader](https://github.com/PharmaForest/ctcae5_grader) |
 | 4 | [SASPACer](https://github.com/PharmaForest/SASPACer) | 19 | [love_matrix](https://github.com/PharmaForest/love_matrix) |
-| 5 | [misc](https://github.com/PharmaForest/misc) (PharmaForest original package) |   |   |
+| 5 | [misc](https://github.com/PharmaForest/misc) (PharmaForest original package) | 20 | [SASPACerShiny (R Package)](https://github.com/PharmaForest/SASPACerShiny) |
 | 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) |   |   |
 | 7 | [SASLogChecker](https://github.com/PharmaForest/saslogchecker) |   |   |
 | 8 | [sas_compare](https://github.com/PharmaForest/sas_compare) |   |   |
