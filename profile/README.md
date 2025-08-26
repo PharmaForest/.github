@@ -37,7 +37,7 @@ Dr. Apple is a support navigator of PharmaForest. He has a strong character but 
 | 3 | [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json) | 18 | [ctcae5_grader](https://github.com/PharmaForest/ctcae5_grader) |
 | 4 | [SASPACer](https://github.com/PharmaForest/SASPACer) | 19 | [love_matrix](https://github.com/PharmaForest/love_matrix) |
 | 5 | [misc](https://github.com/PharmaForest/misc) (PharmaForest original package) | 20 | [SASPACerShiny (R Package)](https://github.com/PharmaForest/SASPACerShiny) |
-| 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) |   |   |
+| 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) | 21 | [change_tracer_dog](https://github.com/PharmaForest/change_tracer_dog) |
 | 7 | [SASLogChecker](https://github.com/PharmaForest/saslogchecker) |   |   |
 | 8 | [sas_compare](https://github.com/PharmaForest/sas_compare) |   |   |
 | 9 | [rtfCreator](https://github.com/PharmaForest/rtfcreator) |   |   |
@@ -55,7 +55,7 @@ If you are greedy who wants to install all packages, see below for install all p
 ~~~sas
 %installPackage(
 	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit
-	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader love_matrix,
+	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader love_matrix change_tracer_dog ,
 	mirror=pharmaforest
 )
 ~~~  
