@@ -40,7 +40,7 @@ Dr. Apple is a support navigator of PharmaForest. He has a strong character but 
 | 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) | 21 | [change_tracer_dog](https://github.com/PharmaForest/change_tracer_dog) |
 | 7 | [SASLogChecker](https://github.com/PharmaForest/saslogchecker) | 22 | [yaml_writer](https://github.com/PharmaForest/yaml_writer) |
 | 8 | [sas_compare](https://github.com/PharmaForest/sas_compare) | 23 | [Adamski](https://github.com/PharmaForest/adamski) (PharmaForest original package) |
-| 9 | [rtfCreator](https://github.com/PharmaForest/rtfcreator) | 24 | [RWDExpress](https://github.com/PharmaForest/RWDEpress) |
+| 9 | [rtfCreator](https://github.com/PharmaForest/rtfcreator) | 24 | [RWDExpress](https://github.com/PharmaForest/RWDExpress) |
 | 10 | [shutter_chance](https://github.com/PharmaForest/shutter_chance) |   |   |
 | 11 | [devil](https://github.com/PharmaForest/devil) (PharmaForest original package) |   |   |
 | 12 | [xattr_kit](https://github.com/PharmaForest/xattr_kit) |   |   |
