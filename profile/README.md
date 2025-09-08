@@ -28,7 +28,7 @@ Dr. Forest is a master navigator of PharmaForest. He is an excellent and diligen
 **Support Navigator(Beta version)** [Dr. Apple link](https://chatgpt.com/g/g-68abce4602908191b56d53895bb2e9dc-dr-apple)  
 Dr. Apple is a support navigator of PharmaForest. He has a strong character but cool GPT assistant who can asnwer details of #16 and later packages. Please understand that he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to him. See more about [his background](https://github.com/PharmaForest/.github/blob/main/Apple_background.md).
 
-
+  
 <img src="https://github.com/PharmaForest/.github/blob/main/SASPackageLady.png" 
        alt="SAS Package Lady" height="100" align="left" style="margin-right:10px;">
 **SAS Package Lady(Beta version)** [SAS Package Lady link](https://chatgpt.com/g/g-68be12f679a88191866ef1e9b35be3c4-sas-package-lady)  
