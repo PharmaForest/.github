@@ -42,7 +42,7 @@ Dr. Apple is a support navigator of PharmaForest. He has a strong character but 
 | 8 | [sas_compare](https://github.com/PharmaForest/sas_compare) | 23 | [Adamski](https://github.com/PharmaForest/adamski) (PharmaForest original package) |
 | 9 | [rtfCreator](https://github.com/PharmaForest/rtfcreator) | 24 | [RWDExpress](https://github.com/PharmaForest/RWDExpress) |
 | 10 | [shutter_chance](https://github.com/PharmaForest/shutter_chance) | 25 | [freqsum](https://github.com/PharmaForest/freqsum)  |
-| 11 | [devil](https://github.com/PharmaForest/devil) (PharmaForest original package) |   |   |
+| 11 | [devil](https://github.com/PharmaForest/devil) (PharmaForest original package) | 26 | [qc_cat_referee](https://github.com/PharmaForest/qc_cat_referee) |
 | 12 | [xattr_kit](https://github.com/PharmaForest/xattr_kit) |   |   |
 | 13 | [cloak](https://github.com/PharmaForest/cloak) |   |   |
 | 14 | [vis_review_kit](https://github.com/PharmaForest/vis_review_kit) |   |   |
@@ -56,7 +56,7 @@ If you are greedy who wants to install all packages, see below for install all p
 %installPackage(
 	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit
 	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader love_matrix change_tracer_dog yaml_writer Adamski RWDExpress
-	freqsum,
+	freqsum qc_cat_referee,
 	mirror=pharmaforest
 )
 ~~~  
