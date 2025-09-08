@@ -31,11 +31,10 @@ Dr. Apple is a support navigator of PharmaForest. He has a strong character but 
 <br><img src="https://github.com/PharmaForest/.github/blob/main/SASPackageLady.png" 
        alt="SAS Package Lady" height="100" align="left" style="margin-right:10px;">
 **SAS Package Lady(Beta version)** [SAS Package Lady link](https://chatgpt.com/g/g-68be12f679a88191866ef1e9b35be3c4-sas-package-lady)  
-SAS Package Lady is a warm diner-auntie GPT persona who helps you create SAS packages. Please understand that she is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to her. 
+SAS Package Lady is a warm diner-auntie GPT persona who helps you create SAS packages. Please understand that she is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to her.<br><br>
 
-
+--- 
 ## Packages
-
 | # | Package | # | Package |
 |---|---------|---|---------|
 | 1 | [OncoPlotter](https://github.com/PharmaForest/OncoPlotter) (PharmaForest original package) | 16 | [maxims4sas](https://github.com/PharmaForest/maxims4sas) (PharmaForest original package) |
