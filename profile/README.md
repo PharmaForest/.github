@@ -49,7 +49,7 @@ SAS Package Lady (Oba-chan) is a warm diner-auntie GPT persona who helps you cre
 | 10 | [shutter_chance](https://github.com/PharmaForest/shutter_chance) | 25 | [freqsum](https://github.com/PharmaForest/freqsum)  |
 | 11 | [devil](https://github.com/PharmaForest/devil) (PharmaForest original package) | 26 | [qc_cat_referee](https://github.com/PharmaForest/qc_cat_referee) |
 | 12 | [xattr_kit](https://github.com/PharmaForest/xattr_kit) | 27 | [SASToolbox](https://github.com/PharmaForest/SASToolbox)  |
-| 13 | [cloak](https://github.com/PharmaForest/cloak) |   |   |
+| 13 | [cloak](https://github.com/PharmaForest/cloak) | 28 | [trial_flow](https://github.com/PharmaForest/trial_flow)  |
 | 14 | [vis_review_kit](https://github.com/PharmaForest/vis_review_kit) |   |   |
 | 15 | [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase) |   |   |
 
@@ -61,7 +61,7 @@ If you are greedy who wants to install all packages, see below for install all p
 %installPackage(
 	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit
 	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader love_matrix change_tracer_dog yaml_writer Adamski RWDExpress
-	freqsum qc_cat_referee SASToolbox,
+	freqsum qc_cat_referee SASToolbox trial_flow,
 	mirror=pharmaforest
 )
 ~~~  
