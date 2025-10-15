@@ -50,7 +50,7 @@ SAS Package Lady (Oba-chan) is a warm diner-auntie GPT persona who helps you cre
 | 11 | [devil](https://github.com/PharmaForest/devil) (PharmaForest original package) | 26 | [qc_cat_referee](https://github.com/PharmaForest/qc_cat_referee) |
 | 12 | [xattr_kit](https://github.com/PharmaForest/xattr_kit) | 27 | [SASToolbox](https://github.com/PharmaForest/SASToolbox)  |
 | 13 | [cloak](https://github.com/PharmaForest/cloak) | 28 | [trial_flow](https://github.com/PharmaForest/trial_flow)  |
-| 14 | [vis_review_kit](https://github.com/PharmaForest/vis_review_kit) |   |   |
+| 14 | [vis_review_kit](https://github.com/PharmaForest/vis_review_kit) | 29 | [valivali](https://github.com/PharmaForest/valivali)  |
 | 15 | [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase) |   |   |
 
 
@@ -61,7 +61,7 @@ If you are greedy who wants to install all packages, see below for install all p
 %installPackage(
 	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit
 	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader love_matrix change_tracer_dog yaml_writer Adamski RWDExpress
-	freqsum qc_cat_referee SASToolbox trial_flow,
+	freqsum qc_cat_referee SASToolbox trial_flow valivali,
 	mirror=pharmaforest
 )
 ~~~  
@@ -78,19 +78,19 @@ PharmaForest repository can omit sourcePath= parameter(sometime it's lengthy) by
 ## Join Our "PharmaForest" – Collaborators Welcome!  
 We are actively looking for collaborators to join and contribute to our program package. If you're interested in participating in any of the following ways, feel free to get in touch with us!
  
-1. Become an Administrator<br>
+1. Become a PharmaForest Manager<br>
 Help manage and lead the package alongside the current team.
 
-3. Co-develop Original Packages<br>
+2. Co-develop Original Packages<br>
 Collaborate with us on building new tools such as "OncoPlotter," "misc", and more.
 
-4. Mirror Your Own Packages<br>
+3. Mirror Your Own Packages<br>
 Share your packages by hosting mirrors with us.
 
-5. Contribute Macros and Tools to the "Devil Package"<br>
+4. Contribute Macros and Tools to the "Devil Package"<br>
 Add useful macros or functionalities to our "Devil" package to expand its features. "Devil" is a package for casually sharing playful or simple programs.
 
-6. Join as a User<br>
+5. Join as a User<br>
 Simply participate in the package as an active user, provide feedback, and stay up to date.
  
 We welcome all levels of involvement. Whether you're a developer, researcher, or just someone interested in what we’re building, we’d love to hear from you!
