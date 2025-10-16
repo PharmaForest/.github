@@ -54,7 +54,10 @@ SAS Package Lady (Oba-chan) is a warm diner-auntie GPT persona who helps you cre
 | 15 | [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase) |   |   |
 
 
-<img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png" alt="pharmaforest_map" width="600">   
+<a href="https://pharmaforest.github.io/">
+  <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest_map.png"
+       alt="pharmaforest_map" width="600">
+</a>
 
 If you are greedy who wants to install all packages, see below for install all packages of PharmaForest.
 ~~~sas
