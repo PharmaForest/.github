@@ -50,7 +50,7 @@ SAS Package Lady (Oba-chan) is a warm diner-auntie GPT persona who helps you cre
 | 11 | [devil](https://github.com/PharmaForest/devil) (PharmaForest original package) | 26 | [qc_cat_referee](https://github.com/PharmaForest/qc_cat_referee) |
 | 12 | [xattr_kit](https://github.com/PharmaForest/xattr_kit) | 27 | [SASToolbox](https://github.com/PharmaForest/SASToolbox)  |
 | 13 | [cloak](https://github.com/PharmaForest/cloak) | 28 | [trial_flow](https://github.com/PharmaForest/trial_flow)  |
-| 14 | [vis_review_kit](https://github.com/PharmaForest/vis_review_kit) | 29 | [valivali](https://github.com/PharmaForest/valivali)  |
+| 14 | [vis_review_kit](https://github.com/PharmaForest/vis_review_kit) | 29 | [valivali](https://github.com/PharmaForest/valivali) (PharmaForest original package) |
 | 15 | [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase) |   |   |
 
 
