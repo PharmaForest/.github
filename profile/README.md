@@ -26,9 +26,14 @@ Dr. Forest is a master navigator of PharmaForest. He is an excellent and diligen
 <img src="https://github.com/PharmaForest/.github/blob/main/apple.png" 
        alt="Dr.Forest" height="100" align="left" style="margin-right:10px;">
 **Support Navigator(Beta version)** [Dr. Apple link](https://chatgpt.com/g/g-68abce4602908191b56d53895bb2e9dc-dr-apple)  
-Dr. Apple is a support navigator of PharmaForest. He has a strong character but cool GPT assistant who can asnwer details of #16 and later packages. Please understand that he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to him. See more about [his background](https://github.com/PharmaForest/.github/blob/main/Apple_background.md).
+Dr. Apple is a support navigator of PharmaForest. He has a strong character but cool GPT assistant who can asnwer details of #16 - #30 packages. Please understand that he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to him. See more about [his background](https://github.com/PharmaForest/.github/blob/main/Apple_background.md).
 
-<br><img src="https://github.com/PharmaForest/.github/blob/main/SASPackageLady.png" 
+<img src="https://github.com/PharmaForest/.github/blob/main/Rio.png" 
+       alt="Rio" height="100" align="left" style="margin-right:10px;">
+**Support Navigator(Beta version)** [Rio link](https://chatgpt.com/g/g-690695e7647c81919c91b01d9b0e621d-rio)  
+Rio is a support navigator of PharmaForest. She/He is a mysterious GPT assistant who can asnwer details of #31 and later packages. Please understand that she/he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to her/him. See more about [her/his background](https://github.com/PharmaForest/.github/blob/main/Rio_background.md).
+
+<img src="https://github.com/PharmaForest/.github/blob/main/SASPackageLady.png" 
        alt="SAS Package Lady" height="100" align="left" style="margin-right:10px;">
 **SAS Package Lady (Oba-chan) (Beta version)** [SAS Package Lady link](https://chatgpt.com/g/g-68be12f679a88191866ef1e9b35be3c4-sas-package-lady)  
 SAS Package Lady (Oba-chan) is a warm diner-auntie GPT persona who helps you create SAS packages. Please understand that she is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to her.<br><br>
