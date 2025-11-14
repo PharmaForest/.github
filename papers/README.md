@@ -1,1 +1,1 @@
-## This is where to locate papers and presentations about PharmaForest
+## This is a place to locate papers and presentations about PharmaForest
