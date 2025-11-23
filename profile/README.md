@@ -25,7 +25,7 @@ Our first priority is to share openly—and get others to share as well—so tha
 | 3 | [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json) | 18 | [ctcae5_grader](https://github.com/PharmaForest/ctcae5_grader) | 33 | [retro_spell_check](https://github.com/PharmaForest/retro_spell_check) |
 | 4 | [SASPACer](https://github.com/PharmaForest/SASPACer) | 19 | [love_matrix](https://github.com/PharmaForest/love_matrix) | 34 | [sas_dataset_toon](https://github.com/PharmaForest/sas_dataset_toon) |
 | 5 | [misc](https://github.com/PharmaForest/misc) (PharmaForest original package) | 20 | [SASPACerShiny (R Package)](https://github.com/PharmaForest/SASPACerShiny) | 35 | [defensivechk](https://github.com/PharmaForest/defensivechk) |
-| 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) | 21 | [change_tracer_dog](https://github.com/PharmaForest/change_tracer_dog) | 36 |    |
+| 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) | 21 | [change_tracer_dog](https://github.com/PharmaForest/change_tracer_dog) | 36 | [GetCDISCCodelist](https://github.com/PharmaForest/GetCDISCCodelist) |
 | 7 | [SASLogChecker](https://github.com/PharmaForest/saslogchecker) | 22 | [yaml_writer](https://github.com/PharmaForest/yaml_writer) | 37 |    |
 | 8 | [sas_compare](https://github.com/PharmaForest/sas_compare) | 23 | [Adamski](https://github.com/PharmaForest/adamski) (PharmaForest original package) | 38 |    |
 | 9 | [rtfCreator](https://github.com/PharmaForest/rtfcreator) | 24 | [RWDExpress](https://github.com/PharmaForest/RWDExpress) | 39 |    |
@@ -47,7 +47,7 @@ If you are greedy who wants to install all packages, see below for install all p
 %installPackage(
 	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit
 	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader love_matrix change_tracer_dog yaml_writer Adamski RWDExpress
-	freqsum qc_cat_referee SASToolbox trial_flow valivali mergex basketMiningKit datacut_sas retro_spell_check sas_dataset_toon defensivechk,
+	freqsum qc_cat_referee SASToolbox trial_flow valivali mergex basketMiningKit datacut_sas retro_spell_check sas_dataset_toon defensivechk GetCDISCCodelist,
 	mirror=pharmaforest
 )
 ~~~  
