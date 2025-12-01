@@ -1,4 +1,4 @@
-# PharmaForest (we have already 30 packages🎉🎉)
+# PharmaForest (we have already 40 packages🎉🎉)
 A collaborative repository of SAS packages for pharmaceutical industry, powered by PHUSE Japan OST (Open Source Technology) WG members—Hiroki Yamanobe, Yutaka Morioka, and Ryo Nakaya—showcasing the list of available packages below. **Click the QR code** to visit gallery page.       
   <img src="https://github.com/PharmaForest/.github/blob/main/pharmaforest.png"
        alt="pharmaforest" width="300" height="300">
@@ -28,9 +28,9 @@ Our first priority is to share openly—and get others to share as well—so tha
 | 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) | 21 | [change_tracer_dog](https://github.com/PharmaForest/change_tracer_dog) | 36 | [GetCDISCCodelist](https://github.com/PharmaForest/GetCDISCCodelist) |
 | 7 | [SASLogChecker](https://github.com/PharmaForest/saslogchecker) | 22 | [yaml_writer](https://github.com/PharmaForest/yaml_writer) | 37 |[kpi_viz_toolbox](https://github.com/PharmaForest/kpi_viz_toolbox)|
 | 8 | [sas_compare](https://github.com/PharmaForest/sas_compare) | 23 | [Adamski](https://github.com/PharmaForest/adamski) (PharmaForest original package) | 38 |[outlier_screening](https://github.com/PharmaForest/outlier_screening)|
-| 9 | [rtfCreator](https://github.com/PharmaForest/rtfcreator) | 24 | [RWDExpress](https://github.com/PharmaForest/RWDExpress) | 39 |    |
-| 10 | [shutter_chance](https://github.com/PharmaForest/shutter_chance) | 25 | [freqsum](https://github.com/PharmaForest/freqsum)  | 40 |    |
-| 11 | [devil](https://github.com/PharmaForest/devil) (PharmaForest original package) | 26 | [qc_cat_referee](https://github.com/PharmaForest/qc_cat_referee) | 41 |    |
+| 9 | [rtfCreator](https://github.com/PharmaForest/rtfcreator) | 24 | [RWDExpress](https://github.com/PharmaForest/RWDExpress) | 39 | [sARDen](https://github.com/PharmaForest/sARDen)|
+| 10 | [shutter_chance](https://github.com/PharmaForest/shutter_chance) | 25 | [freqsum](https://github.com/PharmaForest/freqsum)  | 40 |[sARDenX](https://github.com/PharmaForest/sARDenX)|
+| 11 | [devil](https://github.com/PharmaForest/devil) (PharmaForest original package) | 26 | [qc_cat_referee](https://github.com/PharmaForest/qc_cat_referee) | 41 |[sARDenMTS](https://github.com/PharmaForest/sARDenMTS)|
 | 12 | [xattr_kit](https://github.com/PharmaForest/xattr_kit) | 27 | [SASToolbox](https://github.com/PharmaForest/SASToolbox)  | 42 |    |
 | 13 | [cloak](https://github.com/PharmaForest/cloak) | 28 | [trial_flow](https://github.com/PharmaForest/trial_flow)  | 43 |    |
 | 14 | [vis_review_kit](https://github.com/PharmaForest/vis_review_kit) | 29 | [valivali](https://github.com/PharmaForest/valivali) (PharmaForest original package) | 44 |    |
@@ -47,7 +47,8 @@ If you are greedy who wants to install all packages, see below for install all p
 %installPackage(
 	OncoPlotter sashash sas_dataset_json SASPACer misc sas_faker saslogchecker sas_compare rtfcreator shutter_chance devil xattr_kit
 	cloak vis_review_kit odstable_layoutshowcase maxims4sas laglead ctcae5_grader love_matrix change_tracer_dog yaml_writer Adamski RWDExpress
-	freqsum qc_cat_referee SASToolbox trial_flow valivali mergex basketMiningKit datacut_sas retro_spell_check sas_dataset_toon defensivechk GetCDISCCodelist kpi_viz_toolbox outlier_screening,
+	freqsum qc_cat_referee SASToolbox trial_flow valivali mergex basketMiningKit datacut_sas retro_spell_check sas_dataset_toon defensivechk GetCDISCCodelist kpi_viz_toolbox outlier_screening
+	sARDen sARDenX sARDenMTS,
 	mirror=pharmaforest
 )
 ~~~  
