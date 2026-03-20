@@ -75,7 +75,12 @@ Dr. Apple is a support navigator of PharmaForest. He has a strong character but 
 <br><img src="https://github.com/PharmaForest/.github/blob/main/Rio.png" 
        alt="Rio" height="100" align="left" style="margin-right:10px;">
 **Support Navigator(Beta version)** [Rio link](https://chatgpt.com/g/g-69961574d1d48191bf402340734acf25-rio)  
-Rio is a support navigator of PharmaForest. She/He is a mysterious GPT assistant who can asnwer details of #31 and later packages. Please understand that she/he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to her/him. See more about [her/his background](https://github.com/PharmaForest/.github/blob/main/Rio_background.md).
+Rio is a support navigator of PharmaForest. She/He is a mysterious GPT assistant who can asnwer details of #31 - #45 packages. Please understand that she/he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to her/him. See more about [her/his background](https://github.com/PharmaForest/.github/blob/main/Rio_background.md).
+
+<br><img src="https://github.com/PharmaForest/.github/blob/main/SASUKE.png" 
+       alt="SASUKE" height="100" align="left" style="margin-right:10px;">
+**Support Navigator(Beta version)** [SASUKE link](https://chatgpt.com/g/g-69bda538e5c88191b00e804a5984a03a-sasuke)  
+SASUKE is a support navigator of PharmaForest. He is a GPT assistant ninja who can asnwer details of #46 - #60 packages. Please understand that he is not speaking on behalf of our organization. You need to sign up to ChatGPT (at least a free user account) to talk to him. See more about [his background](https://github.com/PharmaForest/.github/blob/main/SASUKE_background.md).
 
 <br><img src="https://github.com/PharmaForest/.github/blob/main/SASPackageLady.png" 
        alt="SAS Package Lady" height="100" align="left" style="margin-right:10px;">
