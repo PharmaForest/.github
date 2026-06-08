@@ -20,6 +20,22 @@ Through SAS Packages, we want to **actively encourage sharing of SAS know‑how*
 **-Priority-**  
 Our first priority is to **share openly**—and get others to share as well—so that more people can join in. On that basis, we’ll work on **improving quality, driving standardization, and creating long‑term value**.  
 
+# Table of Contents
+
+- [Packages](#packages)  
+       - [Gallery Page](#gallery-page)  
+       - [Ecosystem Map](#ecosystem-map)  
+       - [GPT Navigators](#gpt-navigators)  
+       - [How to install packages](#how-to-install-packages)  
+- [Documents](#documents)
+- [How to join PharmaForest](#join-pharmaforest--collaborators-welcome)
+- [What is SAS Packages? / How to use SAS Packages? (quick start)](#what-is-sas-packages)
+---
+
+## Packages
+
+PharmaForest already provides a wide range of SAS packages, and we will continue contributing even more packages over time. **To help users reach the package they need quickly, we provide several navigation options and discovery paths**, and we are committed to continuously improving the user experience.
+
 | # | Package | # | Package | # | Package | # | Package | 
 |---|---------|---|---------|---|---------|---|---------|
 | 1 | [OncoPlotter](https://github.com/PharmaForest/OncoPlotter) (PharmaForest original package) | 16 | [maxims4sas](https://github.com/PharmaForest/maxims4sas) (PharmaForest original package) | 31 | [basketMiningKit](https://github.com/PharmaForest/basketMiningKit) | 46 | [SASDoGs](https://github.com/PharmaForest/SASDoGs)|
@@ -37,23 +53,6 @@ Our first priority is to **share openly**—and get others to share as well—so
 | 13 | [cloak](https://github.com/PharmaForest/cloak) | 28 | [trial_flow](https://github.com/PharmaForest/trial_flow)  | 43 |[sas2typst_report](https://github.com/PharmaForest/sas2typst_report)| 58 | |
 | 14 | [vis_review_kit](https://github.com/PharmaForest/vis_review_kit) | 29 | [valivali](https://github.com/PharmaForest/valivali) (PharmaForest original package) | 44 |[dataset_maker](https://github.com/PharmaForest/dataset_maker)| 59 | |
 | 15 | [odstable_layoutshowcase](https://github.com/PharmaForest/odstable_layoutshowcase) | 30 | [mergex](https://github.com/PharmaForest/mergex) | 45 | [sashighlight](https://github.com/PharmaForest/sashighlight) | 60 | |
-
-
-# Table of Contents
-
-- [Packages](#packages)  
-       - [Gallery Page](#gallery-page)  
-       - [Ecosystem Map](#ecosystem-map)  
-       - [GPT Navigators](#gpt-navigators)  
-       - [How to install packages](#how-to-install-packages)  
-- [Documents](#documents)
-- [How to join PharmaForest](#join-pharmaforest--collaborators-welcome)
-- [What is SAS Packages? / How to use SAS Packages? (quick start)](#what-is-sas-packages)
----
-
-## Packages
-
-PharmaForest already provides a wide range of SAS packages, and we will continue contributing even more packages over time. **To help users reach the package they need quickly, we provide several navigation options and discovery paths**, and we are committed to continuously improving the user experience.
 
 ### Gallery Page
 
