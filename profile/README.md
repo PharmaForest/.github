@@ -47,7 +47,7 @@ Our first priority is to **share openly**—and get others to share as well—so
        - [GPT Navigators](#gpt-navigators)  
        - [How to install packages](#how-to-install-packages)  
 - [Documents](#documents)
-- [How to join PharmaForest](#join-our-pharmaforest--collaborators-welcome)
+- [How to join PharmaForest](#join-pharmaforest--collaborators-welcome)
 - [What is SAS Packages? / How to use SAS Packages? (quick start)](#what-is-sas-packages)
 ---
 
@@ -119,7 +119,7 @@ Agent skills is to support your SAS packages Framework(SPF) and PharmaForest lif
 --- 
 
 
-## Join PharmaForest – Collaborators Welcome!  
+## Join PharmaForest – Collaborators Welcome  
 We are actively looking for collaborators to join and contribute to our program package. If you're interested in participating in any of the following ways, feel free to get in touch with us!
  
 1. Join as a Project Member<br>
