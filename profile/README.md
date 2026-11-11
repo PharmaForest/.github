@@ -1,4 +1,4 @@
-# PharmaForest (we have 50 packages🎉🎉)
+# PharmaForest (we have 51 packages🎉🎉)
 
 **A collaborative repository of SAS packages for pharmaceutical industry**, powered by PHUSE Data Visualization & Open-Source Technology(DVOST) Working Group.       
 <p>
@@ -43,7 +43,7 @@ PharmaForest already provides a wide range of SAS packages, and we will continue
 | 3 | [sas_dataset_json](https://github.com/PharmaForest/sas_dataset_json) | 18 | [ctcae5_grader](https://github.com/PharmaForest/ctcae5_grader) | 33 | [retro_spell_check](https://github.com/PharmaForest/retro_spell_check) | 48 |[rich_kaplan_meier_plot](https://github.com/PharmaForest/rich_kaplan_meier_plot)|
 | 4 | [SASPACer](https://github.com/PharmaForest/SASPACer) | 19 | [love_matrix](https://github.com/PharmaForest/love_matrix) | 34 | [sas_dataset_toon](https://github.com/PharmaForest/sas_dataset_toon) | 49 | [mergeNSV](https://github.com/PharmaForest/mergeNSV)|
 | 5 | [misc](https://github.com/PharmaForest/misc) (PharmaForest original package) | 20 | [SASPACerShiny (R Package)](https://github.com/PharmaForest/SASPACerShiny) | 35 | [defensivechk](https://github.com/PharmaForest/defensivechk) | 50 | [StepTimeScope](https://github.com/PharmaForest/StepTimeScope)|
-| 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) | 21 | [change_tracer_dog](https://github.com/PharmaForest/change_tracer_dog) | 36 | [GetCDISCCodelist](https://github.com/PharmaForest/GetCDISCCodelist) | 51 | |
+| 6 | [SAS FAKER](https://github.com/PharmaForest/sas_faker) | 21 | [change_tracer_dog](https://github.com/PharmaForest/change_tracer_dog) | 36 | [GetCDISCCodelist](https://github.com/PharmaForest/GetCDISCCodelist) | 51 | [SAS_definer](https://github.com/PharmaForest/sas_definer)|
 | 7 | [SASLogChecker](https://github.com/PharmaForest/saslogchecker) | 22 | [yaml_writer](https://github.com/PharmaForest/yaml_writer) | 37 |[kpi_viz_toolbox](https://github.com/PharmaForest/kpi_viz_toolbox)| 52 | |
 | 8 | [sas_compare](https://github.com/PharmaForest/sas_compare) | 23 | [Adamski](https://github.com/PharmaForest/adamski) (PharmaForest original package) | 38 |[outlier_screening](https://github.com/PharmaForest/outlier_screening)| 53 | |
 | 9 | [rtfCreator](https://github.com/PharmaForest/rtfcreator) | 24 | [RWDExpress](https://github.com/PharmaForest/RWDExpress) | 39 | [sARDen](https://github.com/PharmaForest/sARDen)| 54 | |
